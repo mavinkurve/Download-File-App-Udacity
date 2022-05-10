@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Load App</string>
+    <string name="app_description">Download files from Internet</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Notification Channel -->
+
+    <string name="glide_title">Glide - Image Loading Library by BumpTech</string>
+    <string name="glide_notification_description">The Glide Library is downloaded</string>
+
+    <string name="udacity_title">LoadApp - Current repository by Udacity</string>
+    <string name="udacity_notification_description">The Project 3 repository is downloaded</string>
+
+    <string name="retrofit_title">Retrofit - Type-safe HTTP Client for Android and Java by Square, Inc</string>
+    <string name="retrofit_notification_description">The Retrofit Library is downloaded</string>
+
+    <string name="notification_button">Check the status</string>
+
+    <string name="button_name">Click me</string>
+    <string name="button_loading">We are loading</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="download_button_text">Download</string>
+    <string name="main_image">App Logo Image</string>
+
+    <string name="glide_repo">https://github.com/bumptech/glide/archive/master.zip</string>
+    <string name="udacity_repo">https://github.com/udacity/nd940-c3-advanced-android-programming-project-starter/archive/master.zip</string>
+    <string name="retrofit_repo">https://github.com/square/retrofit/archive/master.zip</string>
+
+    <string name="invalid_download">Select a valid option to download</string>
+    <string name="notification_channel_id">Load App</string>
+    <string name="notification_channel_name">Load App</string>
+
+    <string name="status_success">Your file was downloaded</string>
+    <string name="status_fail">Failed to download</string>
+    <string name="status_unavailable">File download status unavailable</string>
+
+    <string name="file_name_key">File name key</string>
+    <string name="status_key">Status Key</string>
+    <string name="status">Status</string>
+    <string name="close">Close</string>
+    <string name="file_name_label">File name:</string>
+    <string name="status_label">Status:</string>
+    <string name="success_text">SUCCESS</string>
+    <string name="fail_text">FAIL</string>
+    <string name="unavailable_text">UNAVAILABLE</string>
+
+
+</resources>
